@@ -1,0 +1,31 @@
+.head{
+    background-color: rgb(250, 175, 36);
+    margin: -12px -16px;
+    padding: 5px 10px; 
+}
+
+.one{
+    text-align: center;
+    font-size: 25px;
+    letter-spacing: 5px;
+}
+
+footer{
+    position: absolute;
+    bottom: 10px;
+    left: 45%;
+}
+
+.para{
+    color: grey;
+    font-size: 20px;
+    font-family: cursive;
+    font-weight: 300;
+    
+}
+
+body{
+    overflow: hidden;
+}
+
+
