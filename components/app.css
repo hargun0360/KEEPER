@@ -12,7 +12,7 @@
 
 footer{
     position: absolute;
-    bottom: 10px;
+    bottom:0.5%;
     left: 45%;
 }
 
@@ -25,7 +25,33 @@ footer{
 }
 
 body{
-    overflow: hidden;
+    overflow: scroll;
+    background-color: whitesmoke;
+}
+
+.note-block{
+    display: inline-block;
+    height: fit-content;
+    width:fit-content;
+    box-shadow: 3px 3px rgb(160, 151, 151);
+    margin: 30px 0px 0px 10px;
+    background-color: rgb(223, 213, 213);
+    border-radius: 15px;
+    max-width: 400px;
+    
+}
+
+.heading3{
+    padding: 5px;
+    margin: 5px 0px;
+    text-align: center;
+}
+
+.para2{
+    font-size: 20px;
+    padding: 5px;
+    margin: 5px 0px;
+    line-height: 2;
 }
 
 

@@ -6,15 +6,15 @@ import Note from './note';
 function App(){
     return(
         <div>
-            <Heading />
+             <Heading />
              <Note />
-            <Footer />
+             <Footer />
         </div>
         
     );
         
     
-}
+} 
 
 export default App;
 
